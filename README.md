@@ -194,4 +194,4 @@ Backend
 
 ## 📅 Development period
 
-2022.05.20 ~ 2022.06.09 (3Week)
+2022.05.20 ~ 2022.06.09 (3 Weeks)
