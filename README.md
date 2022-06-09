@@ -149,3 +149,43 @@
 ```
   http://127.0.0.1:5000/ or http://외부IP:5000/ or http://도메인:5000/
 ```
+
+
+---
+
+## ⚙ Environment
+
+Backend
+
+```
+    - Flask version : 2.1.2
+    - pytorch version : 1.7.1
+```
+
+
+<br>
+
+## ⚡ tech-stack
+
+### backend
+
+- Flask
+- pytorch
+
+<br>
+
+
+## 🌞 Contributors
+
+- 라효진 👉 [ratataca](https://github.com/ratataca)
+- 김종원 👉 [JONWON2](https://github.com/JONWON2)
+- 이대용 👉 [baekgom78](https://github.com/baekgom78)
+- 최승훈 👉 [owvwo](https://github.com/owvwo)
+- 김윤중 👉 [yoonjoong](https://github.com/yoonjoong)
+- 이지민 👉 [Jiminn](https://github.com/Jiminn)
+
+<br>
+
+## 📅 Development period
+
+2022.05.20 ~ 2022.06.09 (3Week)
